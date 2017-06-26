@@ -24,8 +24,8 @@ Print a single integer denoting the number of characters which must be deleted t
 
 **Sample Input**
 
-`cde
-abc`
+`cde` <br />
+`abc`
 
 **Sample Output**
 
