@@ -6,7 +6,7 @@ Index
 ================
 1. [Making anagram](https://github.com/ravi-sharma/solutions/blob/master/making-anagrams.md)
 2. [Hash Tables: Ransom Note](https://github.com/ravi-sharma/solutions/blob/master/ransom-note.md)
-3. [A Product Array Puzzle](https://github.com/ravi-sharma/solutions/blob/master/product-array-puzzle.md)
+3. [A Product Array Puzzle](https://github.com/ravi-sharma/solutions/blob/master/array-product-puzzle.md)
 
 ## Contributing
 
