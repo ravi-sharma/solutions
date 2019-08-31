@@ -10,7 +10,7 @@ Index
 
 ## Contributing
 
-We welcome contributions! If you would like to hack on Mobile wallet, please
+We welcome contributions!
 follow these steps:
 
 1. Fork this repository
